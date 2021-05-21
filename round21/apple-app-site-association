@@ -1,0 +1,12 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "4897UJ6D8C.com.tangem.round21",
+            "paths": ["*"]
+            }]
+    },
+    "appclips": {
+        "apps": ["4897UJ6D8C.com.tangem.round21.Clip"]
+    }
+}
