@@ -3,15 +3,10 @@
         "apps": [],
         "details": [{
             "appID": "4897UJ6D8C.com.tangem.Tangem",
-            "paths": ["*"]
-            },
-            {
-            "appID": "4897UJ6D8C.com.tangem.round21",
-            "paths": ["*"]
+            "paths": ["/redirect", "/ndef/*"]
             }]
     },
     "appclips": {
-        "apps": ["4897UJ6D8C.com.tangem.Tangem.Clip",
-        "4897UJ6D8C.com.tangem.round21.Clip"]
+        "apps": ["4897UJ6D8C.com.tangem.Tangem.Clip"]
     }
 }
