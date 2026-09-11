@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "4897UJ6D8C.com.tangem.Tangem",
-                "paths": ["/redirect", "/ndef/*", "/wc*", "/pay-app", "/news/*"]
+                "paths": ["/redirect", "/ndef/*", "/wc*", "/pay-app", "/news/*", "/joint-account/join/*"]
             }
         ]
     },
