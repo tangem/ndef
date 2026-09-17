@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "4897UJ6D8C.com.tangem.Tangem",
+                "appIDs": ["4897UJ6D8C.com.tangem.Tangem", "4897UJ6D8C.com.tangem.TangemInternal"],
                 "paths": ["/redirect", "/ndef/*", "/wc*", "/pay-app", "/news/*", "/joint-account/join/*"]
             }
         ]
